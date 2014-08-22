@@ -1,0 +1,8 @@
+# insync config file
+# yaml format
+"/home/dk/Google Drive/devel/backend-server":
+  user: root
+  host: be01.jet9.29ah.ru
+  path: backend-server
+  port: 22
+  exclude: [".git", ".*__jb_.*", ".*.idea.*"]
